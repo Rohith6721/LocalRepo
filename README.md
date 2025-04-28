@@ -1,6 +1,3 @@
-# Suggestions for Your README.md
-
-Here are some sections you can include in your README.md file:
 
 ## Project Title
 A brief title for your project.
